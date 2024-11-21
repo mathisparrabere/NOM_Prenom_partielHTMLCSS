@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Dosis:wght@200..800&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Dosis:wght@200..800&family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Space+Grotesk:wght@300..700&display=swap');
+
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    width:100%;
+    margin:0px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:100vh;
+    color:black;
+}
+
+header{
+    width:100%;
+    margin:0px;
+    background-color: #6a3460;
+    color:white;
+    display:flex;
+
+    #logo{
+        width:109.09px;
+        height:100px;
+        left:110px;
+    }
+
+    #navigation{
+        width:109.09px;
+        height:100px;
+        left:110px;
+    }
+}
+
+#main_container{
+    display:flex;
+
+    
+}
+
+footer{
+    width:100%;
+    margin:0px;
+    color:white;
+}
